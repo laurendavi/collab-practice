@@ -10,16 +10,22 @@ body{
 }
 .left{
     background-color: blue;
-    height: 250px;
+    height: 450px;
 }
 .right{
     background-color: crimson;
-    height: 250px;
+    height: 450px;
 }
 .top{
     background-color: darkcyan;
 }
 .bottom{
-    height: 250px; 
+    height: 450px; 
     background-color: darkgreen;
+}
+.jumbotron{
+    padding: 0px !important;
+    margin-bottom:0px !important;
+    background-image: url(/collab-practice/Img/wesley-tingey-mvLyHPRGLCs-unsplash.jpg);
+    background-attachment: fixed;
 }
