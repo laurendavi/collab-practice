@@ -1,0 +1,25 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    height: 250px;
+}
+.left{
+    background-color: blue;
+    height: 250px;
+}
+.right{
+    background-color: crimson;
+    height: 250px;
+}
+.top{
+    background-color: darkcyan;
+}
+.bottom{
+    height: 250px; 
+    background-color: darkgreen;
+}
